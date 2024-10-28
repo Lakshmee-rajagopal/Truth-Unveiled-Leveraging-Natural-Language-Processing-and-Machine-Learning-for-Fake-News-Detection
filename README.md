@@ -1,6 +1,6 @@
 # Truth-Unveiled!-Leveraging-Natural-Language-Processing-and-Machine-Learning-for-Fake-News-Detection
 
-# **DATASET :** 
+# **Dataset :** 
 [ISOT Fake News Dataset](https://drive.google.com/drive/folders/1PpiNWhgmNBnjLmcjuRelg8jfxTef0lhq?usp=sharing)
 
 The ISOT Fake News dataset contains two types of articles fake and real News. This dataset was collected from real world sources; the truthful articles were obtained by crawling articles from Reuters.com (News website). As for the fake news articles, they were collected from different sources. The fake news articles were collected from unreliable websites that were flagged by Politifact (a fact-checking organization in the USA) and Wikipedia. The dataset contains different types of articles on different topics, however, the majority of articles focus on political and World news topics.
