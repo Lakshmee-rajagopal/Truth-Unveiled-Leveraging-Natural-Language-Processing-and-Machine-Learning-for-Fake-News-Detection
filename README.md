@@ -1,14 +1,14 @@
 # Truth-Unveiled!-Leveraging-Natural-Language-Processing-and-Machine-Learning-for-Fake-News-Detection
 
-**Goal of the Project**
+# **Goal of the Project**
 
-Objective: The primary objective is to build a reliable model that can classify news articles as "fake" or "true."
+**Objective:** The primary objective is to build a reliable model that can classify news articles as "fake" or "true."
 
-Target Output: A binary classification output for news articles.
+**Target Output:** A binary classification output for news articles.
 
-Key Metrics: The model will be evaluated based on Accuracy, Precision, Recall, F1 Score and AUC-ROC curve.
+**Key Metrics:** The model will be evaluated based on Accuracy, Precision, Recall, F1 Score and AUC-ROC curve.
 
-**Overview of the Project**
+# **Overview of the Project**
 
 This project aims to develop a machine learning model to classify news articles as either "True" or "Fake." With the increasing prevalence of misinformation in today's media landscape, accurately identifying credible news sources is essential.
 
