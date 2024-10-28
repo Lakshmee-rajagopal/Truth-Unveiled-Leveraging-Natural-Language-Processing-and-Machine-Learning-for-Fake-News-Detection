@@ -1,6 +1,9 @@
 # Truth-Unveiled!-Leveraging-Natural-Language-Processing-and-Machine-Learning-for-Fake-News-Detection
 
-DATASET : [ISOT Fake News Dataset](https://drive.google.com/drive/folders/1PpiNWhgmNBnjLmcjuRelg8jfxTef0lhq?usp=sharing)
+# **DATASET :** 
+[ISOT Fake News Dataset](https://drive.google.com/drive/folders/1PpiNWhgmNBnjLmcjuRelg8jfxTef0lhq?usp=sharing)
+
+The ISOT Fake News dataset contains two types of articles fake and real News. This dataset was collected from real world sources; the truthful articles were obtained by crawling articles from Reuters.com (News website). As for the fake news articles, they were collected from different sources. The fake news articles were collected from unreliable websites that were flagged by Politifact (a fact-checking organization in the USA) and Wikipedia. The dataset contains different types of articles on different topics, however, the majority of articles focus on political and World news topics.
 
 # **Goal of the Project**
 
@@ -9,6 +12,29 @@ DATASET : [ISOT Fake News Dataset](https://drive.google.com/drive/folders/1PpiNW
 **Target Output:** A binary classification output for news articles.
 
 **Key Metrics:** The model will be evaluated based on Accuracy, Precision, Recall, F1 Score and AUC-ROC curve.
+
+
+Got it! Here’s the revised "Tools Used" section, incorporating Google Colab as the development environment:
+
+# **Tools Used**
+
+Programming Languages: Python
+
+Development Environment: Google Colab
+
+Data Manipulation and Analysis: Pandas, NumPy
+
+Data Visualization: Matplotlib, Seaborn, WordCloud
+
+Natural Language Processing: NLTK (Natural Language Toolkit), Regular Expressions (re)
+
+Machine Learning Libraries: Scikit-Learn, XGBoost
+
+Machine Learning Models: Logistic Regression, Random Forest, XGBoost, Multinomial Naive Bayes, MLPClassifier (Artificial Neural Network)
+
+Model Evaluation and Hyperparameter Tuning: RandomizedSearchCV, Model Metrics (accuracy, precision, recall, F1-score, AUC)
+
+Model Persistence: Joblib
 
 # **Overview of the Project**
 
