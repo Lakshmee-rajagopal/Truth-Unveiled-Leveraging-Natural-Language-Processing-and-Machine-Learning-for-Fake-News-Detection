@@ -1,5 +1,7 @@
 # Truth-Unveiled!-Leveraging-Natural-Language-Processing-and-Machine-Learning-for-Fake-News-Detection
 
+DATASET : [ISOT Fake News Dataset](https://drive.google.com/drive/folders/1PpiNWhgmNBnjLmcjuRelg8jfxTef0lhq?usp=sharing)
+
 # **Goal of the Project**
 
 **Objective:** The primary objective is to build a reliable model that can classify news articles as "fake" or "true."
@@ -30,4 +32,4 @@ Prediction Interface: A user-friendly function is created to allow users to inpu
 
 This project not only demonstrates the application of machine learning techniques but also addresses a critical issue in contemporary society, making it relevant and impactful.
 
-DATASET : [ISOT Fake News Dataset](https://drive.google.com/drive/folders/1PpiNWhgmNBnjLmcjuRelg8jfxTef0lhq?usp=sharing)
+
