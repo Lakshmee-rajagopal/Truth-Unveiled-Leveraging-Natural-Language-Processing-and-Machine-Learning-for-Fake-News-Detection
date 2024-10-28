@@ -18,23 +18,25 @@ Got it! Here’s the revised "Tools Used" section, incorporating Google Colab as
 
 # **Tools Used**
 
-Programming Languages: Python
+**Programming Language:** Python
 
-Development Environment: Google Colab
+**Development Environment:** Google Colab
 
-Data Manipulation and Analysis: Pandas, NumPy
+**Data Manipulation and Analysis:** Pandas, NumPy
 
-Data Visualization: Matplotlib, Seaborn, WordCloud
+**Data Visualization:** Matplotlib, Seaborn, WordCloud
 
-Natural Language Processing: NLTK (Natural Language Toolkit), Regular Expressions (re)
+**Natural Language Processing:** NLTK (Natural Language Toolkit), Regular Expressions (re)
 
-Machine Learning Libraries: Scikit-Learn, XGBoost
+**Machine Learning Libraries:** Scikit-Learn, XGBoost
 
-Machine Learning Models: Logistic Regression, Random Forest, XGBoost, Multinomial Naive Bayes, MLPClassifier (Artificial Neural Network)
+**Machine Learning Models:** Logistic Regression, Random Forest, XGBoost, Multinomial Naive Bayes, MLPClassifier (Artificial Neural Network)
 
-Model Evaluation and Hyperparameter Tuning: RandomizedSearchCV, Model Metrics (accuracy, precision, recall, F1-score, AUC)
+**Model Evaluation and Hyperparameter Tuning:** RandomizedSearchCV
 
-Model Persistence: Joblib
+**Model Metrics:** (accuracy, precision, recall, F1-score, AUC)
+
+**Model Persistence:** Joblib
 
 # **Overview of the Project**
 
