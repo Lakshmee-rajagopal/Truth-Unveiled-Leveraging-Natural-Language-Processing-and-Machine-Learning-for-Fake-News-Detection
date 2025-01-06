@@ -14,7 +14,6 @@ The ISOT Fake News dataset contains two types of articles fake and real News. Th
 **Key Metrics:** The model will be evaluated based on Accuracy, Precision, Recall, F1 Score and AUC-ROC curve.
 
 
-Got it! Here’s the revised "Tools Used" section, incorporating Google Colab as the development environment:
 
 # **Tools Used**
 
