@@ -1,4 +1,4 @@
-# Truth Unveiled! Leveraging Natural Language Processing and Machine Learning for Fake News Detection
+# Truth Unveiled! -  Leveraging Natural Language Processing and Machine Learning for Fake News Detection
 
 # **Dataset :** 
 [ISOT Fake News Dataset](https://drive.google.com/drive/folders/1PpiNWhgmNBnjLmcjuRelg8jfxTef0lhq?usp=sharing)
